@@ -1,0 +1,168 @@
+﻿.block {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.header1 {
+    display: flex;
+   
+}
+
+.circle {
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    background-color:black;
+}
+
+.rectangle {
+    flex-direction:row;
+    width: 100px;
+    height: 40px;
+    
+    background-color: black;
+    margin-left:10px;
+    margin-top:15px;
+}
+
+.header2 {
+    display: flex;
+    
+}
+
+
+.block1 {
+    max-width: 600px;
+}
+
+.leveling {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.circle1 {
+    width: 250px;
+    height: 250px;
+    background: black;
+    border-radius: 200px 200px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.h1 {
+    margin-left: 90px;
+}
+
+.text {
+    margin-left: 90px;
+    font-size: 14px;
+    padding-right: 15px;
+}
+
+.more {
+    display: flex;
+    
+}
+
+.morerect {
+    display: flex;
+    flex-direction: column;
+    max-width: 33%;
+    margin-left:400px;  
+}
+
+.txt {
+    max-width: 300px;
+    max-height: 300px;
+   
+}
+
+.rectangle5 {
+    width: 200px;
+    height: 150px;
+    background: black;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+.rectangle6 {
+    width: 200px;
+    height: 150px;
+    background: black;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.rectangle7 {
+    width: 200px;
+    height: 150px;
+    background: black;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.h2 {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.text1 {
+    margin-left: 50px;
+    font-size: 14px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+}
+
+.moretext {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.combo {
+    
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.rectangle8 {
+    width: 40px;
+    height: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.rectangle9 {
+    width: 40px;
+    height: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.rectangle10 {
+    width: 40px;
+    height: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.abvgd {
+    display: flex;
+    align-items: flex-start;
+}
+
+.p {
+    max-width: 100px;
+}
+
+.obshag {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 10px;
+    max-width: 250px;
+}
